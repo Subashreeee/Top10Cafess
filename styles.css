@@ -1,0 +1,71 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: Century Gothic;
+}
+header{
+  background-image: url(https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWVzdGhldGljJTIwY2FmZXxlbnwwfHwwfHw%3D&w=1000&q=80);
+
+  height:100vh;
+  background-size: cover;
+  background-position:center;
+
+}
+
+ul{
+  float:right;
+  list-style-type: none;
+  margin-top: 25px;
+  }
+
+ul li{
+  display: inline-block;
+}
+ul li a{
+  text-decoration: none;
+  color:#fff;
+  padding:5px 20px;
+  border:3px solid transparent;
+  transition: 0.6s ease;
+}
+ul li a:hover{
+  background-color: #fff;
+  color:#000;
+
+}
+
+.logo img{
+  float: left;
+  width:100px;
+  height: 100px;
+
+}
+.main{
+  max-width:1200px;
+  margin: auto;
+}
+.title{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+
+}
+.title h1{
+  color:#fff;
+  font-size:100px;
+
+  font-style: Lucida Console;
+
+}
+.topnav{
+  width: 100%;
+  min-height: 100vh;
+  padding: 5%;
+
+
+}
+
+
+
+}
