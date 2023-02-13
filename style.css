@@ -516,16 +516,16 @@ font-weight:lighter;
   margin-left: 100px;
   margin-top: -62px;
  background-size: cover;
-  background-color: #E5D7D1;
+  background-color: #fff;
   font-size: 80px;
    font-family: 'Tangerine', serif;
    font-weight: lighter;
 
 }
 input{
-  background-color:#C6B5A4;
-  border-color:#E5D7D1;
-  box-shadow: #E5D7D1;
+  background-color:#fff;
+  border-color:#fff;
+  box-shadow: #fff;
 
   font-weight: bolder;
   font-size: 50px;
@@ -534,9 +534,9 @@ input{
   padding-top: 10px;
 }
 input:hover{
-  background-color:#E5D7D1;
+  background-color:#fff;
   transition: 0.7s;
-  border-color: #E5D7D1;
+  border-color: #fff;
   padding-top: 10px;
 }
 
@@ -550,12 +550,12 @@ input:hover{
 
 
 .head2{
-  background-color:#E5D7D1;
+  background-color:#fff;
   background-size: cover;
 
 }
 .head3{
-  background-color: #E5D7D1;
+  background-color: #fff;
   background-size: cover;
 
 }
@@ -564,34 +564,34 @@ input:hover{
   background-size: cover;
 }
 .head5{
-  background-color: #E5D7D1;
+  background-color: #fff;
   background-size: cover;
 
 }
 .head6{
-  background-color: #E5D7D1;
+  background-color: #fff;
   background-size: cover;
 }
 .head7{
-  background-color: #E5D7D1;
+  background-color: #fff;
   background-size: cover;
 
 }
 .head8{
-  background-color: #E5D7D1;
+  background-color: #fff;
   background-size: cover;
 }
 .head9{
-  background-color: #E5D7D1;
+  background-color: #fff;
   background-size: cover;
 
 }
 .head10{
-  background-color: #E5D7D1;
+  background-color: #fff;
   background-size: cover;
 }
 .head11{
-  background-color: #E5D7D1;
+  background-color: #fff;
   background-size: cover;
 
 }
